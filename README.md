@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 |------|---|---|---|
 | COCONOTE |노션의 문서 관리와 슬랙의 실시간 커뮤니케이션을 하나로 통합한 지식 공유 및 관리 플랫폼입니다.|2024.09 ~ 2024.11|[COCONOTE_BE](https://github.com/ara-ro/coconote_BE)<br>[COCONOTE_FE](https://github.com/ara-ro/coconote_FE)|
 | Teenkiri | 학습 콘텐츠를 제공하는 강의 시청 사이트 입니다. |2024.07 ~ 2024.09|[teenkiri_통합](https://github.com/ara-ro/teenkiri_app)<br>[teenkiri_BE](https://github.com/ara-ro/teenkiri_BE)<br>[teenkiri_FE](https://github.com/ara-ro/teenkiri_FE)|
-|알쏭이달쏭이 | 알쏭이달쏭이는 우리말을 사랑하는 사람들을 위한, 우리말 교육과 스스로의 연습을 하기 위한 플랫폼 입니다. |2024.11 ~ ing|[alssongdalsong](https://github.com/ara-ro/alssongdalsong)
+|알쏭이달쏭이 | 알쏭이달쏭이는 우리말을 사랑하는 사람들을 위한, 우리말 교육과 스스로의 연습을 하기 위한 플랫폼 입니다. |ing|[alssongdalsong](https://github.com/ara-ro/alssongdalsong)
 
 
 ## Skills
